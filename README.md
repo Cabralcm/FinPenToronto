@@ -55,9 +55,16 @@ If any broken individual links, try: [Microsoft Hololens Website](https://docs.m
 
 # Interaction Gestures
 
-Draw with your finger while surrounded by the Toronto city-scape!
+Draw with your finger while surrounded by the Toronto city-scape! 
 
+**Strongly Recommended** - Follow Hololens Gestures tutorial that can be run within the Microsoft Hololens to learn the different **default** Hololens gestures.
+
+**Gestures**
 1) ```Tap/Click Gesture``` - Start/Stop drawing with your finger (trail that follows your finger)
+2) ```Index Finger``` with arm extended out in front of you (your default pointing gesture). This is the gesture you draw with!
+
+
+**Voice Commands**
 2) **Speak:** ```Color <COLOR NAME>``` - Change current drawing colour. Color option commands include:
    - ```Color Red```
    - ```Color Blue```
