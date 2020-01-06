@@ -37,11 +37,39 @@ If any broken individual links, try: [Microsoft Hololens Website](https://docs.m
 5) [Unity Game Engine](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools#choose-your-engine)
 6) [Mixed Reality Toolkit (MMTK)](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)
 
-# Running the Project
+# Running Project on Hololens
+
+**Strongly recommend** having an understanding of how to build Hololens projects in Unity, and how to compile and upload to Hololens device from Visual Studio. Instead of writing an inferior guide here, please follow the first few [Microsoft Hololens - Mixed Reality Tutorials](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100) for a professional guide.
+
+## Basic Steps to Build, Compile and Upload Project to Hololens
+
 1) Open Unity Game Engine
-2) Download ```.unity``` package file from Repository
-3) Import ```.unity``` package. ([How to Import Unity Assets File](https://docs.unity3d.com/560/Documentation/Manual/AssetPackages.html))
-4) Com
+2) Download ```.unity``` package file from this Repository
+3) Import ```.unity``` package into Unity. ([How to Import Unity Assets File](https://docs.unity3d.com/560/Documentation/Manual/AssetPackages.html))
+4) Open ```Main``` Scene from Assets Package
+5) Compile and build the scene in Unity, which will correspondingly open up Visual Studio.
+6) Go to Visual Studio (should already be open)
+7) Physically connect Hololens to computer (can also upload via Wifi, but this is much slower), make sure the Hololens appears as the device you wish to upload the code to.
+8) Build/Upload project to device (pressing the Run button). Make sure the settings are correct. Please consult Microsoft tutorials above for help.
+9) After uploading, turn on hololens, locate app, run and enjoy!
+
+# Interaction Gestures
+
+Draw with your finger while surrounded by the Toronto city-scape!
+
+1) ```Tap/Click Gesture``` - Start/Stop drawing with your finger (trail that follows your finger)
+2) **Speak:** ```Color <COLOR NAME>``` - Change current drawing colour. Color option commands include:
+   - ```Color Red```
+   - ```Color Blue```
+   - ```Color Green```
+   - ```Color White```
+   - ```Color Yellow```
+   - ```Color Rainbow``` --> constantly iterates through the colors above to generate a "Rainbow" trail
+3) **Speak:** ```Start Drawing``` - Start drawing with your finger.
+4) **Speak:** ```Stop Drawing``` - Stop drawing with your finger.
+5) **Speak:** ```Snow``` - Starts/Stops "Falling Snow" effect.
+6) **Speak:** ```Clear All``` - Removes/Deletes all drawings/points.
+
 
 
 # Additional Hololens Resources:
