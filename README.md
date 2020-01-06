@@ -6,13 +6,13 @@ The [NEXT - Year End Show](http://yearendshow.schoolofdesign.ca/) is held annual
 
 # Team
 
-Lead Developer (Volunteer): [Christopher Cabral](https://github.com/Cabralcm)
+Lead Developer (Volunteer) -- [Christopher Cabral](https://github.com/Cabralcm)
 
-Lead Interaction Designer (GBC): [Soonmin Jung](https://www.soonminjung.com/)
+Lead Interaction Designer (GBC) -- [Soonmin Jung](https://www.soonminjung.com/)
 
-Interaction Designer (GBC): [Hyeji An](https://www.behance.net/HYEJIAN?tracking_source=search%7Chyeji%20an)
+Interaction Designer (GBC) -- [Hyeji An](https://www.behance.net/HYEJIAN?tracking_source=search%7Chyeji%20an)
 
-Interaction Designer (GBC): [Daeyoung Kim](https://www.behance.net/44mg_dayoung/projects)
+Interaction Designer (GBC) -- [Daeyoung Kim](https://www.behance.net/44mg_dayoung/projects)
 
 # Installation
 
@@ -41,10 +41,12 @@ If any broken individual links, try: [Microsoft Hololens Website](https://docs.m
 1) Open Unity Game Engine
 2) Download ```.unity``` package file from Repository
 3) Import ```.unity``` package. ([How to Import Unity Assets File](https://docs.unity3d.com/560/Documentation/Manual/AssetPackages.html))
+4) Com
 
 
 # Additional Hololens Resources:
-1) [Lynda Course - Hololens (Gen 1)](https://www.lynda.com/Windows-tutorials/App-Development-Microsoft-HoloLens/587658-2.html)
+1) [Microsoft Hololens - Mixed Reality Tutorials](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100)
+2) [Lynda Course - Hololens (Gen 1)](https://www.lynda.com/Windows-tutorials/App-Development-Microsoft-HoloLens/587658-2.html)
 
 
 
