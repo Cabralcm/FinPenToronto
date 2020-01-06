@@ -1,6 +1,13 @@
 # Fin Pen Toronto
+<p align="center">
+  <img src="https://gyazo.com/416f0f81a67b070e59dd7728bb2e2827.png">
+</p>
 
-Presented at the [2018 FinPen: NEXT - Year End Show](http://yearendshow.schoolofdesign.ca/finpen/) 
+![FinPenToronto](https://gyazo.com/b7fcdff64f1039288ad6ef6cd51fc287.png)
+
+<br>
+
+## Presented at the [2018 FinPen: NEXT - Year End Show](http://yearendshow.schoolofdesign.ca/finpen/) 
 
 The [NEXT - Year End Show](http://yearendshow.schoolofdesign.ca/) is held annually at the [School of Design, George Brown College (GBC)](https://www.georgebrown.ca/design/), located Downtown Toronto at the Waterfront Campus, where senior year design students showcase their final year projects.
 
