@@ -6,13 +6,13 @@ The [NEXT - Year End Show](http://yearendshow.schoolofdesign.ca/) is held annual
 
 # Team
 
-Lead Developer (Volunteer), [Christopher Cabral](https://github.com/Cabralcm)
+Lead Developer (Volunteer): [Christopher Cabral](https://github.com/Cabralcm)
 
-Lead Interaction Designer (GBC), [Soonmin Jung](https://www.soonminjung.com/)
+Lead Interaction Designer (GBC): [Soonmin Jung](https://www.soonminjung.com/)
 
-Interaction Designer (GBC) [Hyeji An](https://www.behance.net/HYEJIAN?tracking_source=search%7Chyeji%20an)
+Interaction Designer (GBC): [Hyeji An](https://www.behance.net/HYEJIAN?tracking_source=search%7Chyeji%20an)
 
-Interaction Designer (GBC) [Daeyoung Kim](https://www.behance.net/44mg_dayoung/projects)
+Interaction Designer (GBC): [Daeyoung Kim](https://www.behance.net/44mg_dayoung/projects)
 
 # Installation
 
@@ -39,8 +39,8 @@ If any broken individual links, try: [Microsoft Hololens Website](https://docs.m
 
 # Running the Project
 1) Open Unity Game Engine
-2) Download ```.unity``` file
-3) 
+2) Download ```.unity``` package file from Repository
+3) Import ```.unity``` package. ([How to Import Unity Assets File](https://docs.unity3d.com/560/Documentation/Manual/AssetPackages.html))
 
 
 # Additional Hololens Resources:
