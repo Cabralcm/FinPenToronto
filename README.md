@@ -1,4 +1,4 @@
 # Fin Pen Toronto
 
-Presented at [NEXT](http://yearendshow.schoolofdesign.ca/), the Year End Design Show at George Brown College, Downtown Toronto showcasing Senior Design Student's final projects.
+Presented at [NEXT - Year End Show](http://yearendshow.schoolofdesign.ca/). Held annually at the School of Design, George Brown College, located Downtown Toronto, where Senior Design Student showcase their final year projects.
    
