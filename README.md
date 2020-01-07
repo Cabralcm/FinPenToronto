@@ -21,6 +21,16 @@ Interaction Designer (GBC) -- [Hyeji An](https://www.behance.net/HYEJIAN?trackin
 
 Interaction Designer (GBC) -- [Daeyoung Kim](https://www.behance.net/44mg_dayoung/projects)
 
+# Table of Contents
+1) [Installation](#installation)
+   - [Basic Requirements](#basic-requirements)
+   - [Game Engine Requirements](#game-engine-requirements)
+2) [Deploying to Hololens](#deploying-project-to-hololens)
+3) [Interaction Gestures](interaction-gestures)
+4) [Additional Hololens Resources](#additional-hololens-resources)
+
+> For those interested in the code that enables the interaction components, please see [/FinPenToronto/script/](https://github.com/Cabralcm/FinPenToronto/tree/master/Scripts) for relevant C# files!
+
 # Installation
 
 Installation steps for Steps (1) to (5) can be found on: [Microsoft Hololens Website](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
@@ -29,7 +39,7 @@ Step (5), Unity Game Engine, is required for extracting the compressed ```.unity
 
 >Used the 2017 LTS version of Unity for this project.
 
-## Basic requirements:
+## Basic requirements
 1) [Windows 10](https://www.microsoft.com/en-ca/software-download/windows10)
 2) [Visual Studio](https://visualstudio.microsoft.com/downloads/)
    - Community version is FREE
@@ -40,11 +50,11 @@ Step (5), Unity Game Engine, is required for extracting the compressed ```.unity
 
 If any broken individual links, try: [Microsoft Hololens Website](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
     
-## Game Engine requirements:
+## Game Engine requirements
 5) [Unity Game Engine](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools#choose-your-engine)
 6) [Mixed Reality Toolkit (MMTK)](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)
 
-# Running Project on Hololens
+# Deploying Project to Hololens
 
 **Strongly recommend** having an understanding of how to build Hololens projects in Unity, and how to compile and upload to Hololens device from Visual Studio. Instead of writing an inferior guide here, please follow the first few [Microsoft Hololens - Mixed Reality Tutorials](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100) for a professional guide.
 
@@ -87,8 +97,7 @@ Draw with your finger while surrounded by the Toronto city-scape!
 6) **Speak:** ```Clear All``` - Removes/Deletes all drawings/points.
 
 
-
-# Additional Hololens Resources:
+# Additional Hololens Resources
 1) [Microsoft Hololens - Mixed Reality Tutorials](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100)
 2) [Lynda Course - Hololens (Gen 1)](https://www.lynda.com/Windows-tutorials/App-Development-Microsoft-HoloLens/587658-2.html)
 
