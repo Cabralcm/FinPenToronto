@@ -33,7 +33,7 @@ Interaction Designer (GBC) -- [Dayeong Kim](https://www.behance.net/rakne72393bb
 
 # Installation
 
-Installation steps for Steps (1) to (5) can be found on: [Microsoft Hololens Website](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
+Installation steps for Steps (1) to (6) can be found on: [Microsoft Hololens Website](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 
 Step (5), Unity Game Engine, is required for extracting the compressed ```.unity``` file, and compiling the project. Please select the recommended version of Unity Game Engine found at the bottom of the website: [Microsoft Hololens Website](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools). **Strongly recommended to install the Long Term Support (LTS) version of Unity**.
 
