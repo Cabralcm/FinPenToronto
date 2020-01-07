@@ -19,7 +19,7 @@ Lead Interaction Designer (GBC) -- [Soonmin Jung](https://www.soonminjung.com/)
 
 Interaction Designer (GBC) -- [Hyeji An](https://www.behance.net/HYEJIAN?tracking_source=search%7Chyeji%20an)
 
-Interaction Designer (GBC) -- [Daeyoung Kim](https://www.behance.net/44mg_dayoung/projects)
+Interaction Designer (GBC) -- [Dayeong Kim](https://www.behance.net/rakne72393bb?tracking_source=search%7Cdayeong+)
 
 # Table of Contents
 1) [Installation](#installation)
